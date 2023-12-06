@@ -21,12 +21,12 @@
 
 ​		
 
-![Captura de pantalla 2023-12-06 103204](C:\Users\user\Pictures\Screenshots\Captura de pantalla 2023-12-06 103204.png)
+![Diagrama Lógico](./Captura%20de%20pantalla%202023-12-06%20103204.png)
 
 ## Diagrama Físico
 
-![Captura de pantalla 2023-12-06 103307](C:\Users\user\Pictures\Screenshots\Captura de pantalla 2023-12-06 103307.png)
+![Diagrama Físico](./Captura%20de%20pantalla%202023-12-06%20103307.png)
 
 ## Diagrama Relacional
 
-![Captura de pantalla 2023-12-06 103605](C:\Users\user\Documents\SebastianA\PushUpBaseDeDatos\Captura de pantalla 2023-12-06 103605.png)
+![Diagrama Relacional](./Captura%20de%20pantalla%202023-12-06%20103605.png)
